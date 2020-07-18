@@ -9,11 +9,10 @@ class Home extends Component {
         return (
             <div className="condiv home">
                 <img src={profilepic} className="profilepic"></img>
-                <ReactTypingEffect className="typingeffect" text={['I am Eugene', 'I am a Software Engineer']} speed={100} eraseDelay={700} />
+                <ReactTypingEffect className="typingeffect" text={['IT Consultant', 'Full Stack Engineer','BackEnd Developer']} speed={100} eraseDelay={700} />
                 <Social />
             </div>
         )
     }
 }
 export default Home
-oÿÿÿÿ‚yGlt Home
